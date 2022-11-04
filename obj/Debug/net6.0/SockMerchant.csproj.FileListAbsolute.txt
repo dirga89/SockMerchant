@@ -1,0 +1,15 @@
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\bin\Debug\net6.0\SockMerchant.exe
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\bin\Debug\net6.0\SockMerchant.deps.json
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\bin\Debug\net6.0\SockMerchant.runtimeconfig.json
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\bin\Debug\net6.0\SockMerchant.dll
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\bin\Debug\net6.0\SockMerchant.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\SockMerchant.csproj.AssemblyReference.cache
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\SockMerchant.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\SockMerchant.AssemblyInfoInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\SockMerchant.AssemblyInfo.cs
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\SockMerchant.csproj.CoreCompileInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\SockMerchant.dll
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\refint\SockMerchant.dll
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\SockMerchant.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\SockMerchant.genruntimeconfig.cache
+I:\Project\HackerRank\OneMonthPreparation\Week02\SockMerchant\obj\Debug\net6.0\ref\SockMerchant.dll
