@@ -68,5 +68,7 @@ class Solution
 
         //textWriter.Flush();
         //textWriter.Close();
+
+        Console.WriteLine("Penambahan cabang");
     }
 }
